@@ -12,7 +12,7 @@
 </h1>
 
 <h3  align = "center">
- <b>I'm a data analyst who transforms raw data into actionable insights, driving informed decisions and uncovering valuable opportunities.</b>
+ <b>A data analyst who transforms raw data into actionable insights, driving informed decisions and uncovering valuable opportunities.</b>
 </h3>
 <br>
 
