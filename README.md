@@ -46,11 +46,11 @@
 
  - 👀 Looking forward to make my mark into <b> Data Analytics field.</b>
  
- - 🔭 I’m currently working on <b> Machine Learning skills.</b>
+ - 🔭 I’m currently learning <b> Machine Learning skills.</b>
  
  - 🌱 Passionate to draw meaningful insights from the data.
    
- - 💬 Ask me about **Excel, MS SQL, Python, Tableau, Statistics, ML**
+ - 💬 Ask me about **Excel, MS SQL, Python, Power BI, Statistics, ML**
  
  - 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/abhishek-mali/" rel="nofollow" >LinkedIn</a></strong>.
  
